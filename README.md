@@ -13,13 +13,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
+
 </p>
+
 
 ## 📊 GitHub Stats  
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -28,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATTOCX&layout=compact&theme=radical" alt="Most Used Languages" height="180px"/>
 </p>
 
-## 📬 Get in Touch  
+## 📬 How To Reach Me
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="mailto:elsayonata@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -39,7 +40,11 @@
   <a href="https://instagram.com/elsayosu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
 </p>
+
 
 ## ✨ Fun Facts  
 💡 "Code is like humor. When you have to explain it, it’s bad."  
