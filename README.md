@@ -22,12 +22,9 @@
 </p>
 
 
-## 📊 GitHub Stats  
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MATTOCX&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MATTOCX&theme=radical" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATTOCX&layout=compact&theme=radical" alt="Most Used Languages" height="180px"/>
-</p>
+ 
+![Elsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsayosu&show_icons=true&count_private=true&theme=tokyonight)
+
 
 ## 📬 How To Reach Me
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
