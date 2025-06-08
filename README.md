@@ -21,10 +21,13 @@
 
 </p>
 
-
- 
+## 🧾 GitHub Stats
 ![Elsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsayosu&show_icons=true&count_private=true&theme=tokyonight)
 
+## 💬 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsayosu&layout=compact&theme=tokyonight)
+
+ 
 
 ## 📬 How To Reach Me
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
